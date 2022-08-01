@@ -74,15 +74,19 @@ In the terminal type 'Jupyter Lab'
 
 ## Usage
 
-The following images show the notebook read in Juypter Lab and in Github under financial_planning_tools.ipynb.
+The following images show the notebook read in Juypter Lab and in Voila under etf_analyzer.ipynb.
+
+1 shot of the notebook running in Jupyter Lab
 
 ## ![Screenshot of Jupyter_Lab with notebook open](Images/Jupyter_Lab.jpg) </br>
 
-## ![ 1st Screenshot of the Notebook running with Voilà](Images/Voila1.jpg)
+3 shots of the notebook running in Voilà
 
-## ![ 2nd Screenshot of the Notebook running with Voilà](Images/Voila2.jpg)
+## ![ 1st Screenshot of the Notebook running with Voilà](Images/Voila1.jpg) </br>
 
-## ![ 3rd Screenshot of the Notebook running with Voilà](Images/Voila3.jpg)
+## ![ 2nd Screenshot of the Notebook running with Voilà](Images/Voila2.jpg) </br>
+
+## ![ 3rd Screenshot of the Notebook running with Voilà](Images/Voila3.jpg) </br>
 
 ---
 
