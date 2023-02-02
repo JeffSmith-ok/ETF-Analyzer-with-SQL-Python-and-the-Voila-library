@@ -1,4 +1,4 @@
-# Web Application for an ETF Anaylyzer with SQL, Python and the Voilà library to analyze the performance of a hypothetical fintech ETF.
+# Web Application for an ETF Analyzer with SQL, Python and the Voilà library to analyze the performance of a hypothetical fintech ETF.
 
 In this project, I’ll build a financial database and web application by using SQL, Python, and the Voilà library to analyze the performance of a hypothetical fintech ETF.
 
