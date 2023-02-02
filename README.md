@@ -1,5 +1,3 @@
-# Module_7_Challenge
-
 # Web Application for an ETF Anaylyzer with SQL, Python and the Voilà library to analyze the performance of a hypothetical fintech ETF.
 
 In this Challenge assignment, I’ll build a financial database and web application by using SQL, Python, and the Voilà library to analyze the performance of a hypothetical fintech ETF.
