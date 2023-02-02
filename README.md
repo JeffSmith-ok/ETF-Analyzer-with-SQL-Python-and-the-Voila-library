@@ -1,6 +1,6 @@
 # Web Application for an ETF Anaylyzer with SQL, Python and the Voilà library to analyze the performance of a hypothetical fintech ETF.
 
-In this Challenge assignment, I’ll build a financial database and web application by using SQL, Python, and the Voilà library to analyze the performance of a hypothetical fintech ETF.
+In this project, I’ll build a financial database and web application by using SQL, Python, and the Voilà library to analyze the performance of a hypothetical fintech ETF.
 
 I wiil complete the analysis of a fintech ETF that consists of four stocks: GOST, GS, PYPL, and SQ. Each stock has its own table in the `etf.db` database.
 
@@ -60,11 +60,11 @@ To install the programs to run the program, you have to do the following.
 
 Install Anaconda and Python. </br>
 
-Git clone the repo and run it, pursuant to the following clone address
+Git clone the repo and run it
 
-git clone https://github.com/JeffSmith-ok/Module_7_Challenge
+git clone https://github.com/JeffSmith-ok/ETF-Anaylyzer-with-SQL-Python-and-the-Voila-library
 
-cd Module_7_Challenge
+cd ETF-Anaylyzer-with-SQL-Python-and-the-Voila-library
 
 In the terminal type 'Jupyter Lab'
 
@@ -96,7 +96,7 @@ My contact information is:
 
 Name: Jeffrey M. Smith </br>
 Linkedin: https://www.linkedin.com/in/jeffsmith77/ </br>
-Personal email: jmstranslate@gmail.com </br>
+Personal email: jsmith@lexsmith.finance </br>
 Phone: 332 238 5209
 
 ---
